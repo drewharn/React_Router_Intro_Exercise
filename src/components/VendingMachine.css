@@ -1,0 +1,26 @@
+.vending-machine {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: skyblue;
+    margin: 15px;
+}
+
+.snack-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.snack-list li {
+    margin-bottom: 10px;
+}
+
+.snack-list li a {
+    color: forestgreen;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.snack-list li a:hover {
+    color: silver;
+    text-decoration: underline;
+}
